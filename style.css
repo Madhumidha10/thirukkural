@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body{
+    background: url('images/sun.png'),linear-gradient(to top, rgb(87, 44, 3),rgb(141, 99, 8));
+    background-repeat: no-repeat; 
+    background-size:cover;
+    width:100%;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    font-size: 0.9rem;
+
+  
+
+ }
+
+.container{
+    height:100%;
+    width:100%;
+    background-image: linear-gradient(to bottom,rgba(14, 8, 0, 0.3),rgba(66, 51, 0, 0.2));
+    box-shadow: 0px 0px 17px 7px rgb(49, 29, 5);
+
+}
+h2{
+    background-image:linear-gradient(to top, rgb(61, 30, 3),rgb(95, 48, 3));
+    color: rgb(243, 238, 235);
+    height :10vh;
+    box-shadow: 0px 0px 17px 7px rgb(49, 29, 5);width:100%;
+}
+.text_color{
+    font-weight: bold; 
+    padding: 5px 15px 5px 36px;
+}
+
+.jumbotron{
+
+    justify-content: center;
+    width:100%; 
+    color: rgb(14, 10, 8);
+    font-weight: 1px;
+    background: transparent  ;
+ 
+}
