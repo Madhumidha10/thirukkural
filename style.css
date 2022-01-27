@@ -2,7 +2,7 @@
 
 
 body{
-    background: url('images/sun.png'),linear-gradient(to top, rgb(87, 44, 3),rgb(141, 99, 8));
+    background: url('sun.png'),linear-gradient(to top, rgb(87, 44, 3),rgb(141, 99, 8));
     background-repeat: no-repeat; 
     background-size:cover;
     width:100%;
